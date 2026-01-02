@@ -1,6 +1,9 @@
 # Todo App Project
 
 A full-stack Todo application built with Node.js, Express, MongoDB, and React Native (Expo).
+> [!NOTE]
+> **Download Android App**: [Click here to download APK](https://expo.dev/artifacts/eas/waFT444NtX2kEFBT5wkwsX.apk)
+
 
 ## Features
 - **User Authentication**: Secure login and registration using JWT.
